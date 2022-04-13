@@ -42,7 +42,7 @@
 |---------|-----------|----------------------|-----------|-----------------|----------------|
 | 1.      | 110220022 | Annisa Munajalipah   |  munajalipqhannisaa@gmail.com       |   annisa32              |                |
 | 2.      | 110220010 | Joko Supriyanto      |           |                 |                |
-| 3.      | 110220240 | Mukminun             |           |                 |                |
+| 3.      | 110220240 | Mukminun             |  mukm20240ti@student.nurulfikri.ac.id       |   mukminunSTTNF              |                |
 | 4.      | 110220207 | Hidayatul ihsan      |           |                 |                |
 | 5.      | 110220092 | Rio Agi              | rioa20092ti@student.nurulfikri.ac.id|        Rioagi18         |                |
 | 6.      | 110220024 | Muhammad Rizqi       | amat.rizki200@gmail.com          | rizqi007                |                |
